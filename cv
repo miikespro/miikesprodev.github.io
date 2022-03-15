@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Ma passion pour les animaux</title>
+  </head>
+
+  <body>
+      <h1>Voici une liste d'animaux</h1>
+
+      <p><h3>Mes préférés :</h3></p>
+      <ol>
+          <li><strong><mark>Le lion</mark></strong></li>
+          <li>Le tigre</li>
+          <li>Le Léopard</li>
+      </ol>
+  </body>
+  <p>Bonjour. Souhaitez-vous visiter <a href="https://espace-zoologique.com/" title="Vous ne le regretterez pas !" target="_blank">espace-zoologique de st martin la plaine</a> ?</p>
+<p><h1> les voici en photo</h1>
+  <img src="C:\Users\mick\Desktop\cour html\media\lion.jpg" alt="lion">
+  <img src="C:\Users\mick\Desktop\cour html\media\tigre.jpg" alt="tigre">
+  <img src="C:\Users\mick\Desktop\cour html\media\leopard.jpg" alt="leopard">
+</p>
+
+</html>
